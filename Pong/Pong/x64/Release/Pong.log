@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Dell\source\repos\Pong\main.cpp(33,62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  4 of 13 functions (30.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Pong.vcxproj -> C:\Users\Dell\source\repos\Pong\x64\Release\Pong.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
